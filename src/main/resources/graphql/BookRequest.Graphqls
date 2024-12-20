@@ -1,0 +1,7 @@
+input BookRequest {
+    titre: String
+    publisher: String
+    datePublication: String
+    price: Float
+    resume: String
+}

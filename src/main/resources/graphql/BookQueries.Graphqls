@@ -1,0 +1,4 @@
+type Query {
+
+    getBookByTitre(title : String): [Book]
+}
